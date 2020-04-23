@@ -25,5 +25,5 @@ https://docs.google.com/forms/d/1aXgCL-H8qXAoYt13izfEZf6qNarOszWJaEehaU8Q6i0/edi
 
 We are part of Open Life Science Program. You can find our assignments for the OLS here:
 
-[Open canvas](https://drive.google.com/open?id=1vXj03t_X6GDjGGrW29NVFBtpp-8pnhPYcr44uOKxrK8)
-[Roadmap](https://docs.google.com/document/d/1SjqB6HPOekwD5dWiwehMGUQyW4DefLhxe9HoLAbDw7o/edit)
+- [Open canvas](https://drive.google.com/open?id=1vXj03t_X6GDjGGrW29NVFBtpp-8pnhPYcr44uOKxrK8)
+- [Roadmap](https://docs.google.com/document/d/1SjqB6HPOekwD5dWiwehMGUQyW4DefLhxe9HoLAbDw7o/edit)
