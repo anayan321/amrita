@@ -12,16 +12,13 @@ or that we need your help with brainstorming and development of the platform!
 ### How to contribute ###
 - Fill out our [survey](https://docs.google.com/forms/d/1aXgCL-H8qXAoYt13izfEZf6qNarOszWJaEehaU8Q6i0/viewform?ts=5e4c7b15&edit_requested=true) and let us know what you're working on and how we can help you.
 - Suggest the names of the medicinal herbs that you would like to be included in the database here >>like to the issue<<
-- If you're a software programmer who wish to help us tackle technical challenges in constructing the database, please feel free to contact us [here](anunya.opa@gmail.com).
+- If you're a software programmer who wish to help us tackle technical challenges in constructing the database, please feel free to contact us [here](https://forms.gle/icu54bi5iC4t5ixz7).
 - Help us spread the words about our project!
 
 ### Code of conduct ###
 
 Please be polite and kind when interact with other members of the community. Any posts that contain improper languages or contents that violate the law will be removed and the person will not be allowed to participate in the community.
 
-
-Contributors' survey:
-https://docs.google.com/forms/d/1aXgCL-H8qXAoYt13izfEZf6qNarOszWJaEehaU8Q6i0/edit?ts=5e4c7b15
 
 We are part of Open Life Science Program. You can find our assignments for the OLS here:
 
