@@ -20,7 +20,7 @@ or that we need your help with brainstorming and development of the platform!
 Please be polite and kind when interact with other members of the community. Any posts that contain improper languages or contents that violate the law will be removed and the person will not be allowed to participate in the community.
 
 
-We are part of Open Life Science Program. You can find our assignments for the OLS here:
+We are part of [Open Life Science Program](https://openlifesci.org/). You can find our assignments for the OLS here:
 
 - [Open canvas](https://drive.google.com/open?id=1vXj03t_X6GDjGGrW29NVFBtpp-8pnhPYcr44uOKxrK8)
 - [Roadmap](https://docs.google.com/document/d/1SjqB6HPOekwD5dWiwehMGUQyW4DefLhxe9HoLAbDw7o/edit)
