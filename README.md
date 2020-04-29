@@ -1,7 +1,7 @@
 # AMRITA
 Welcome to AMRITA github page! We are at an early stage of constructing an online database for herbal medicine. We hope to work with scientists from various disciplines to construct an online database for herbal medicine so that research community and private sectors could work in collaboration to advance the field.
 
-or that we need your help with brainstorming and development of the platform!
+Right now we need your help with brainstorming and development of the platform!
 
 ### Who can contribute ###
 - Researchers who are interested in/actively working on herbal medicine
@@ -11,8 +11,8 @@ or that we need your help with brainstorming and development of the platform!
 
 ### How to contribute ###
 - Fill out our [survey](https://docs.google.com/forms/d/1aXgCL-H8qXAoYt13izfEZf6qNarOszWJaEehaU8Q6i0/viewform?ts=5e4c7b15&edit_requested=true) and let us know what you're working on and how we can help you.
-- Suggest the names of the medicinal herbs that you would like to be included in the database here >>like to the issue<<
-- If you're a software programmer who wish to help us tackle technical challenges in constructing the database, please feel free to contact us [here](https://forms.gle/icu54bi5iC4t5ixz7).
+- Suggest the names of the medicinal herbs that you would like to be included in the database [here](https://forms.gle/icu54bi5iC4t5ixz7)
+- If you're a software programmer who wish to help us tackle technical challenges in constructing the database (those who have experiences in Naatural Language Processiong are very welcome!), please feel free to contact us [here](https://forms.gle/icu54bi5iC4t5ixz7).
 - Help us spread the words about our project!
 
 ### Code of conduct ###
